@@ -4,3 +4,4 @@ Programming Skills:
 - CSS
 - Git
 - GitHub
+Currently Learning: JavaScript
