@@ -1,0 +1,6 @@
+Programming Skills:
+- C++
+- HTML
+- CSS
+- Git
+- GitHub
