@@ -17,3 +17,4 @@ The purpose of this project is to practice Git and GitHub basics and learn how t
 - About Me
 - My Skills
 - My Learning Goals
+This project helps me practice Git and GitHub.
